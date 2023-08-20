@@ -16,8 +16,4 @@ This lab will discuss and help you through the concepts of Authentication and Au
 
 Building on top of the Lab 1 and Lab 2 with considerable amount of data generated through the simulators, in this lab you will be working on the data that is available in the database to perform analytics
 
-### Project
-
-The first assessment project will also be an extension of these labs. Please ensure that you do these labs hands-on, on your own system to gain good experience.
-
 ---
